@@ -2,14 +2,7 @@
 layout: article
 aside:
   toc: true
-titles:
-  en: About
-  en-GB: About
-  en-US: About
-  en-CA: About
-  en-AU: About
-  es: Sobre mí
-  es-ES: Sobre mí
+title: Sobre mí
 key: page-about
 modify_date: 2021-05-24
 comment: false
