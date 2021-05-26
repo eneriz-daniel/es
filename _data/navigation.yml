@@ -12,6 +12,9 @@ header:
       # @end locale config
     url: /about.html
 
+  - title: Blog
+    url: /blog.html
+
   - titles:
       # @start locale config
       en      : &EN       Archive
