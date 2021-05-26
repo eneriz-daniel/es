@@ -16,7 +16,7 @@ comment: false
 modified: 2021-05-26T17:21:08+02:00
 ---
 
-# ## ¡Hola! Soy Daniel Enériz Orta. A día de hoy estoy trabajando en mi tesis doctoral en la Universidad de Zaragoza que es sobre Edge-AI. En esta página puedes encontrar mi curriculum
+### ¡Hola! Soy Daniel Enériz Orta. A día de hoy estoy trabajando en mi tesis doctoral en la Universidad de Zaragoza que es sobre Edge-AI. En esta página puedes encontrar mi curriculum
 
 ## Formación
 - Doctorado (*Actualmente*)
