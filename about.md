@@ -3,20 +3,20 @@ layout: article
 aside:
   toc: true
 titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  es      : &ES       Sobre mí
-  es-ES   : *ES
-  # @end locale config
+  en: About
+  en-GB: About
+  en-US: About
+  en-CA: About
+  en-AU: About
+  es: Sobre mí
+  es-ES: Sobre mí
 key: page-about
 modify_date: 2021-05-24
+comment: false
+modified: 2021-05-26T17:19:37+02:00
 ---
 
-#### ¡Hola! Soy Daniel Enériz Orta. A día de hoy estoy trabajando en mi tesis doctoral en la Universidad de Zaragoza que es sobre Edge-AI. En esta página puedes encontrar mi curriculum
+# ### ¡Hola! Soy Daniel Enériz Orta. A día de hoy estoy trabajando en mi tesis doctoral en la Universidad de Zaragoza que es sobre Edge-AI. En esta página puedes encontrar mi curriculum
 
 ## Formación
 - Doctorado (*Actualmente*)
