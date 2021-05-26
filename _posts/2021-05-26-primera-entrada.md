@@ -3,8 +3,9 @@ title: Primera entrada
 tags: General
 show_edit_on_github: false
 comment: true
-key: 20210525
+key: 20210526A
 mermaid: true
+modified: 2021-05-26T15:46:22+02:00
 ---
 
 Probando, probando...Esta es la primera entrada del blog, donde quiero presentar el contenido que incluiré de aquí en adelante.
