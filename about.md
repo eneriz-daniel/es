@@ -4,10 +4,14 @@ aside:
   toc: true
 title: Sobre mí
 key: page-about
-modify_date: 2021-05-24
+modify_date: 2021-05-27
 comment: false
-modified: 2021-05-26T17:21:08+02:00
 ---
+<img align="right" width="200" height="200" src="assets/avatar.jpg" alt="Image" title="Image_circle+border+shadow" class="circle border shadow">
+
+Soy Daniel Enériz Orta, he estudiado **Física** (grado y máster) y actualmente estoy haciendo el Doctorado en la Universidad de Zaragoza. Tengo especial interés por la **Inteligencia Artificial** y la **Electrónica**, por lo que he enfocado mi tesis hacia la *Edge-AI* o inteligencia artificial con computación en el borde. Concretamente voy a explorar diferentes soportes físicos, FPGAs, CPUs y GPUs, en los que poder inferir redes neuronales, optimizando los modelos para minimizar el coste energético y de recursos a la vez de conseguir un tiempo de inferencia lo más reducido posible.También he trabajando en el control inalámbrico de instrumentación a través de WiFi, cuyo código está [publicado](https://github.com/eneriz-daniel/instin).
+
+Desde siempre me ha llamado la atención la tecnología. Tengo experiencia cacharreando con hardware: Arduino, impresión 3D, Raspberry... y software: [bots de Telegram](https://github.com/eneriz-daniel/COVIDataNav), procesamiento de datos, esta web... 
 
 
 ## Formación
