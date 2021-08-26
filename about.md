@@ -40,6 +40,7 @@ Desde siempre me ha llamado la atención la tecnología. Tengo experiencia cacha
   : Ministerio de Educación y Formación profesional
 
 ## Publicaciones
+- D. Enériz Orta, N. Medrano, and B. Calvo, “A Wireless Instrumentation Control System Based on Low-Cost Single Board Computer Gateways,” *IEEE Access*, vol. 9, pp. 115632–115642, 2021, doi: [10.1109/ACCESS.2021.3104903](10.1109/ACCESS.2021.3104903).
 - D. Enériz Orta, N. Medrano Marqués, and B. Calvo López, “Implementación de redes neuronales en FPGAs usando tipos de datos de punto fijo,” *Jorn. jovenes investig. I3A*, vol. 8, Dec. 2020, doi: [10.26754/jjii3a.4849](https://doi.org/10.26754/jjii3a.4849).
 - D. Enériz, N. Medrano, and B. Calvo, “Live Demonstration: A Low-Cost Wireless Instrumentation Control System,” in *2020 IEEE International Symposium on Circuits and Systems (ISCAS)*, Oct. 2020, pp. 1–1. doi: [10.1109/ISCAS45731.2020.9180681](https://doi.org/10.1109/ISCAS45731.2020.9180681).
 - D. Enériz, N. Medrano, B. Calvo, and J. Pérez-Bailón, “A Wireless Instrumentation Control System Based on Low-Cost Single Board Computers,” in *2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, May 2020, pp. 1–5. doi: [10.1109/I2MTC43012.2020.9129142](https://doi.org/10.1109/I2MTC43012.2020.9129142).
