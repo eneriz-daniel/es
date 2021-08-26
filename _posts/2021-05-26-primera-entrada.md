@@ -15,7 +15,7 @@ article_header:
 modified: 2021-05-26T15:46:22+02:00
 ---
 
-Probando, probando...Esta es la primera entrada del blog, donde quiero presentar los recursos que usaré en adelante.
+Probando, probando... Ésta es la primera entrada del blog, donde quiero presentar los recursos que usaré en adelante.
 
 <!--more-->
 
