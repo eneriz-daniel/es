@@ -4,7 +4,7 @@ aside:
   toc: true
 title: Sobre mí
 key: page-about
-modify_date: 2021-05-27
+modify_date: 2021-08-26
 comment: false
 ---
 <img align="right" width="200" height="200" src="assets/avatar.jpg" alt="Image" title="Image_circle+border+shadow" class="circle border shadow">
